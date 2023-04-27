@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">Looking to put my lifes work somewhere/h3>
 
-- 🔭 I’m currently working on **OderBookApp**
+- 🔭 I’m currently working on **OrderBookAPP**
 
 - 🌱 I’m currently learning **Databases, Docker, Mobile Devolopment**
 
